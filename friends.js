@@ -1,7 +1,9 @@
 var bestFriend = "Pie";
-// bestFriend = "Matt";
+var goodFriend = "Matt";
+bestFriend = "Samee";
 if (bestFriend === "Pie") {
     console.log("Hello best friend!");
-} else {
+} else if (goodFriend === "Matt"); {
     console.log("You are a good friend.");
 }
+
